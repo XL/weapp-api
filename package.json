@@ -1,0 +1,29 @@
+{
+  "name": "weapp-api",
+  "version": "1.0.0",
+  "description": "weapp api",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xl/weapp.git"
+  },
+  "keywords": [
+    "weapp",
+    "api"
+  ],
+  "author": "XL Network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xl/weapp/issues"
+  },
+  "homepage": "https://github.com/xl/weapp#readme",
+  "dependencies": {
+    "urllib": "^2.33.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
